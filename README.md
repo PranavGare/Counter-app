@@ -1,5 +1,7 @@
 Project is Live at : https://pranavgare.github.io/Counter-app/
 
+<img width="1440" alt="Screenshot 2024-12-10 at 1 52 18 AM" src="https://github.com/user-attachments/assets/50ad2d7d-145c-4407-adc5-314fcfe24eae">
+
 In the project directory, you can run:
 
 ### `npm start`
